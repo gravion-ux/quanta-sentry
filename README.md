@@ -1,5 +1,9 @@
 # QuantaSentry
 
+![Demo](docs/demo.png)
+
+*Demo: Cryptographic inventory of a source tree — 10 findings from 3 files.*
+
 > Cryptographic inventory and post-quantum migration-readiness reporting from source/configuration evidence.
 
 **Status:** MVP scaffold / research prototype. Not production-certified.
