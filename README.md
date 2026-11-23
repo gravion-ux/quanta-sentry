@@ -1,5 +1,7 @@
 # QuantaSentry
 
+[![CI](https://github.com/gravion-ux/quanta-sentry/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/quanta-sentry/actions/workflows/ci.yml)
+
 ![Demo](docs/demo.png)
 
 *Demo: Cryptographic inventory of a source tree — 10 findings from 3 files.*
